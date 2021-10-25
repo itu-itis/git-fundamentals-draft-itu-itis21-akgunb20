@@ -1,4 +1,4 @@
-# :wave: The Basics of GitHub (BERKAY AKGÜN, 150200052)
+# :wave: The Basics of GitHub (BERKAY AKGÜN, 150200052, modified at 10.49, 25.10.21)
 
 ## 🤓 Course overview and learning outcomes 
 
